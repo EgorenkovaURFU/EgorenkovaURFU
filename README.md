@@ -29,4 +29,4 @@ _Machine learning_
 ![sklearn](icons/SKLEARN.svg) ![catboost](icons/CATBOOST.svg) ![xgboost](icons/XGBOOST.svg) ![lightgbm](icons/LIGHTGBM.svg) ![mlflow](icons/MLFLOW.svg) ![clearml](icons/CLEAR _ ML.svg)
 
 _Neural Networks and Computer vision_
-![pytorch](icons/PYTORCH.svg) ![opencv](icons/OPENCV.svg) ![openai](icons/OPENAI.svg) ![hugging_face](icons/HUGGING FACE.svg) ![yolo](icons/YOLO.svg)
+![pytorch](icons/PYTORCH.svg) ![opencv](icons/OPENCV.svg) ![openai](icons/OPENAI.svg) ![hugging_face](icons/HUGGING_FACE.svg) ![yolo](icons/YOLO.svg)
