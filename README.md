@@ -1,6 +1,7 @@
-## Hi there, I am Tatyana Egorenkova! ![hand](hand.gif =30x30)
+## Hi there, I am Tatyana Egorenkova! <img src="hand.gif" alt="hand" style="width:30px;"/>
 
 ![Welcome](welcome.gif)
+
 
 
 __Technology stach__<br>
