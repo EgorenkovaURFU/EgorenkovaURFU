@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 __Technology stach__
 _Languages and technologies_
-![python](icons/PYTHON.svg) ![fastAPI](icons/FASTAPI.svg) ![streamlit](icons/STREAMLIT.svg) ![telegram](icons/TELEGRAM API.svg) ![requests](icons/REQUESTS.svg) ![beautiful soup](icons/BEAUTIFUL SOUP.svg)
+![python](icons/PYTHON.svg) ![fastAPI](icons/FASTAPI.svg) ![streamlit](icons/STREAMLIT.svg) ![telegram](icons/TELEGRAMAPI.svg) ![requests](icons/REQUESTS.svg) ![beautiful soup](icons/BEAUTIFULSOUP.svg)
 <br>
 
 _Tables and databases_
