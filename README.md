@@ -1,4 +1,4 @@
-## Hi there, I am Tatyana Egorenkova! ![hand](hand.gif)
+## Hi there, I am Tatyana Egorenkova! ![hand](hand.gif =30x30)
 
 ![Welcome](welcome.gif)
 
