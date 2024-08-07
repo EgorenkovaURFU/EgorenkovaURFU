@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-'''
-![python](icons/PYTHON.svg)
+
+![python](icons/PYTHON.svg) ![fastAPI](icons/FASTAPI.svg)
