@@ -26,7 +26,7 @@ _Additional tools_
 ![git](icons/GIT.svg) ![jupyter](icons/JUPYTER.svg) ![docker](icons/DOCKER.svg) ![airflow](icons/AIRFLOW.svg) ![pytest](icons/PYTEST.svg)
 
 _Machine learning_
-![sklearn](icons/SKLEARN.svg) ![catboost](icons/CATBOOST.svg) ![xgboost](icons/XGBOOST.svg) ![lightgbm](icons/LIGHTGBM.svg) ![mlflow](icons/MLFLOW.svg) ![clearml](icons/CLEAR _ ML.svg)
+![sklearn](icons/SKLEARN.svg) ![catboost](icons/CATBOOST.svg) ![xgboost](icons/XGBOOST.svg) ![lightgbm](icons/LIGHTGBM.svg) ![mlflow](icons/MLFLOW.svg) ![clearml](icons/CLEARML.svg)
 
 _Neural Networks and Computer vision_
 ![pytorch](icons/PYTORCH.svg) ![opencv](icons/OPENCV.svg) ![openai](icons/OPENAI.svg) ![hugging_face](icons/HUGGING_FACE.svg) ![yolo](icons/YOLO.svg)
