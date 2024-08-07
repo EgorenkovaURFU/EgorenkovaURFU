@@ -14,5 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+__Technology stach__
+_Languages and technologies_
+![python](icons/PYTHON.svg) ![fastAPI](icons/FASTAPI.svg) ![streamlit](icons/STREAMLIT.svg) ![telegram](icons/TELEGRAM API.svg) ![requests](icons/REQUESTS.svg) ![beautiful soup](icons/BEAUTIFUL SOUP.svg)
+<br>
 
-![python](icons/PYTHON.svg) ![fastAPI](icons/FASTAPI.svg)
+_Tables and databases_
+![pandas](icons/PANDAS.svg) ![numpy](icons/NUMPY.svg) ![pyspark](icons/PYSPARK.svg) ![postgresql](icons/POSTGRESQL.svg) ![clickhouse](icons/CLICKHOUSE.svg)
+
+_Additional tools_
+![git](icons/GIT.svg) ![jupyter](icons/JUPYTER.svg) ![docker](icons/DOCKER.svg) ![airflow](icons/AIRFLOW.svg) ![pytest](icons/PYTEST.svg)
+
+_Machine learning_
+![sklearn](icons/SKLEARN.svg) ![catboost](icons/CATBOOST.svg) ![xgboost](icons/XGBOOST.svg) ![lightgbm](icons/LIGHTGBM.svg) ![mlflow](icons/MLFLOW.svg) ![clearml](icons/CLEAR _ ML.svg)
+
+_Neural Networks and Computer vision_
+![pytorch](icons/PYTORCH.svg) ![opencv](icons/OPENCV.svg) ![openai](icons/OPENAI.svg) ![hugging_face](icons/HUGGING FACE.svg) ![yolo](icons/YOLO.svg)
