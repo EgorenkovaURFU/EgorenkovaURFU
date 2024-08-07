@@ -12,9 +12,9 @@
 * High level of responsibility and organization. <br>
 
 __My contacts__<br>
-Telegram: @eg_tanya
-Mail: tatyana.egorenkova.19@gmail.com
-LinkedIn: https://www.linkedin.com/in/tatyana-egorenkova/
+Telegram: @eg_tanya<br>
+Mail: tatyana.egorenkova.19@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/tatyana-egorenkova/<br>
 
 
 ---
