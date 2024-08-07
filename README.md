@@ -1,19 +1,8 @@
-## Hi there 👋
+## Hi there, I am Tatyana Egorenkova! ![hand](hand.gif)
 
-<!--
-**EgorenkovaURFU/EgorenkovaURFU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Welcome](welcome.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 __Technology stach__<br>
 _Languages and technologies_<br>
 ![python](icons/PYTHON.svg) ![fastAPI](icons/FASTAPI.svg) ![streamlit](icons/STREAMLIT.svg) ![telegram](icons/TELEGRAMAPI.svg) ![requests](icons/REQUESTS.svg) ![beautiful soup](icons/BEAUTIFULSOUP.svg)
@@ -29,3 +18,7 @@ _Machine learning_<br>
 
 _Neural Networks and Computer vision_<br>
 ![pytorch](icons/PYTORCH.svg) ![opencv](icons/OPENCV.svg) ![openai](icons/OPENAI.svg) ![hugging_face](icons/HUGGING_FACE.svg) ![yolo](icons/YOLO.svg)
+
+---
+#Contacts<br>
+
