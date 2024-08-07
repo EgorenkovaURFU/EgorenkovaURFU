@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-__Technology stach__
-_Languages and technologies_
+__Technology stach__<br>
+_Languages and technologies_<br>
 ![python](icons/PYTHON.svg) ![fastAPI](icons/FASTAPI.svg) ![streamlit](icons/STREAMLIT.svg) ![telegram](icons/TELEGRAMAPI.svg) ![requests](icons/REQUESTS.svg) ![beautiful soup](icons/BEAUTIFULSOUP.svg)
-<br>
 
 _Tables and databases_
 ![pandas](icons/PANDAS.svg) ![numpy](icons/NUMPY.svg) ![pyspark](icons/PYSPARK.svg) ![postgresql](icons/POSTGRESQL.svg) ![clickhouse](icons/CLICKHOUSE.svg)
